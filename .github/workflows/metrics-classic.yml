@@ -17,19 +17,12 @@ jobs:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
-          output_action: gist
-          committer_gist: 89b24126686a7074a27e3d826d2da28a
           repositories_skipped:
             CollegeTouringS21
             BaseballTour
           plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_ignored:
-            QMake
-            Shell
-            Makefile
-            Procfile
-            Dockerfile
+          plugin_languages_ignored: QMake,Shell,Makefile,Procfile,Dockerfile
           plugin_topics: yes
           plugin_habits: yes
           
