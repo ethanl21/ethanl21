@@ -1,1 +1,1 @@
-![GitHub Metrics](/metrics.classic.svg)
+<p align="center"><img src="/metrics.classic.svg" alt="Metrics"></p>
