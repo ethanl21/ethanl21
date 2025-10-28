@@ -226,8 +226,8 @@
                     <section>
                         <div class="topics fill-width">
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
-                            <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
+                            <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
                             <div class="label" title="Rust is a systems programming language created by Mozilla.">rust</div>
                             <div class="label" title="Flutter is an open source mobile application development SDK created by Google.">flutter</div>
                             <div class="label" title="An advanced, multi-platform 2D and 3D open source game engine.">godot</div>
