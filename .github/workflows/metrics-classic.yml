@@ -22,7 +22,7 @@ jobs:
             BaseballTour
           plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_ignored: QMake,Shell,Makefile,Procfile,Dockerfile,,GAP
+          plugin_languages_ignored: QMake,Shell,Makefile,Procfile,Dockerfile,,GAP,ShaderLab,HLSL
           plugin_topics: yes
           plugin_habits: yes
           
