@@ -24,6 +24,4 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: QMake,Shell,Makefile,Procfile,Dockerfile,,GAP,ShaderLab,HLSL
           plugin_topics: yes
-          plugin_habits: yes
           
-  
